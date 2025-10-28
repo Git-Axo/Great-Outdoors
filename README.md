@@ -9,11 +9,13 @@
 "I feel like a nut - John Nelson"
 
 
+
 \### Added My MO
 
 
 
 An overview by Mohamed Sudi
 
-
+### Contributed
+- Josh'ua Monsalvatge
 
