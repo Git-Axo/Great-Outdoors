@@ -1,10 +1,10 @@
-\### H3 Fauna of the Forest and Mountains
+\### Fauna of the Forest and Mountains
 
 \*A brief overview by Carlos Valencia\*
 
 
 
-\### H3 Secret Squirrel Member
+\### Secret Squirrel Member
 
 "I feel like a nut - John Nelson"
 
@@ -12,10 +12,13 @@
 
 \### Added My MO
 
-
-
 An overview by Mohamed Sudi
 
-### Contributed
-- Josh'ua Monsalvatge
+
+
+\### Contributed
+
+
+
+Josh'ua Monsalvatge
 
